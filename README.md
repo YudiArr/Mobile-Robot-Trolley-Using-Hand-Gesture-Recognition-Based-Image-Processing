@@ -3,3 +3,5 @@ The supermarket trolley is used for carrying groceries while shopping and typica
 
 - Make a Robot Move Using Hand Gesture
 - Implement Machine Learning & Artificial Intelligent
+
+[![Watch the video](https://img.youtube.com/vi/gRC54r5FRMo/maxresdefault.jpg)](https://www.youtube.com/watch?v=gRC54r5FRMo)
